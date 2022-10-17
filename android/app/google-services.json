@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "985655808498",
+    "project_id": "stubu-ac180",
+    "storage_bucket": "stubu-ac180.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985655808498:android:5aea50f7d3678b30c01b6b",
+        "android_client_info": {
+          "package_name": "com.example.studybuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985655808498-bvgnlu7t9i9lmcccs5p6tonagrvdr7qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBMONa7qo0ss6R3445ojU-xVHnn80OzFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985655808498-bvgnlu7t9i9lmcccs5p6tonagrvdr7qt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985655808498-ppjn5d9qnfipogrork4e3mrpk0vmkrea.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.studybuddy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
